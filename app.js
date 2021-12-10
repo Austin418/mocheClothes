@@ -11,3 +11,4 @@ cloudinary.config({
   });
 
   const notFoundError = require('./mocheClothes/middleware/')
+  const errorHandlerMiddleware = require("./middleware/")
