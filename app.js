@@ -4,6 +4,9 @@ require('express-async-errors')
 const express = require('express')
 const app = express()
 
+const fileUpload = require('express-fileupload')
+const connectDB = require('./db/connect')
+
 
 const notFoundError = require('./middleware/not-found')
 const errorHandlerMiddleware = require('./middleware/error-handler')
@@ -14,9 +17,7 @@ const port = process.env.PORT || 3000
 app.use(express.json())
 app.use(fileUpload({useTempFiles: true}))
 app.use(express.static('./public'))
-app.get('/', (req, res) => {
-  res.send('<h1>Stripe payment Starter</h1>')
-})
+
 app.post("/stripe", stripeController)
 
 // app.use('notFoundError')
