@@ -1,8 +1,13 @@
+.wrapper{
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 1rem;
+  box-shadow:  inset -10px 0 5px -2px #888;
+}
 .container{
   max-width: 400px;
   margin: 0 auto;
   padding: 1rem;
-  box-shadow: inset -5px 0 1px black;
 }
 .side-scroll {
   display: flex;
@@ -17,8 +22,8 @@
   background: #ccc;
 }
 .side-scroll::-webkit-scrollbar-thumb:horizontal {
-  background-color: var(--thumbBG);
-  box-shadow: -100vh 0 0 100vh var(--shadow), 0 0 15px 5px black;
+  
+  box-shadow: -100vh 0 0 100vh, 0 0 15px 5px black;
 }
 .logo{
   max-height: 20px;
