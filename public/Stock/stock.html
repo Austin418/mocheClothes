@@ -10,5 +10,26 @@
   <main class="gallery">
     <div class="gallery-tile"></div>
   </main>
+  {{!-- move this to the bottom right dev tools --}}
+  <div class="devtools">
+    <button>Dev Mode</button>
+  </div>
+  <div class="modal hidden">
+    <form class="form file-form">
+      <h4>Import New Product</h4>
+      <div class="form-row">
+        <label for="name">Name</label>
+        <input id="name" type="text" class="form-input" value="computer" />
+      </div>
+      <div class="form-row">
+        <label for="price">Price</label>
+        <input id="price" type="text" class="form-input" value="150.99" />
+      </div>
+      <div class="form-row">
+        <label for="image">Image</label>
+        <input id="image" type="file" class="form-input" accept="image/*" />
+      </div>
+      <button class="btn btn-block" type="submit">Submit</button>
+    </form>
 </body>
 </html>

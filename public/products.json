@@ -2,129 +2,129 @@
   "products": {
     "featured": {
       "1": {
-        "name": {},
-        "img": {}
+        "name": "Holiday Sweater",
+        "img": ""
       },
       "2": {
-        "name": {},
-        "img": {}
+        "name": "Twill Beanie",
+        "img": ""
       },
       "3": {
-        "name": {},
-        "img": {}
+        "name": "Holiday Sweatpants",
+        "img": ""
       },
       "4": {
-        "name": {},
-        "img": {}
+        "name": "Holiday Shirt" ,
+        "img": ""
       },
       "5": {
-        "name": {},
-        "img": {}
+        "name": "Mittens",
+        "img": ""
       },
       "6": {
-        "name": {},
-        "img": {}
+        "name": "Designer gift wrap",
+        "img": ""
       },
       "7": {
-        "name": {},
-        "img": {}
+        "name": "Holiday Handbag",
+        "img": ""
       },
       "8": {
-        "name": {},
-        "img": {}
+        "name": "Holiday Shoes",
+        "img": ""
       },
       "9": {
-        "name": {},
-        "img": {}
+        "name": "",
+        "img": ""
       },
       "10": {
-        "name": {},
-        "img": {}
+        "name": "",
+        "img": ""
       }
     }
   },
   "on-sale": {
     "1": {
-      "name": {},
-      "img": {}
+      "name": "",
+      "img": ""
     },
     "2": {
-      "name": {},
-      "img": {}
+      "name": "",
+      "img": ""
     },
     "3": {
-      "name": {},
-      "img": {}
+      "name": "",
+      "img": ""
     },
     "4": {
-      "name": {},
-      "img": {}
+      "name": "",
+      "img": ""
     },
     "5": {
-      "name": {},
-      "img": {}
+      "name": "",
+      "img": ""
     },
     "6": {
-      "name": {},
-      "img": {}
+      "name": "",
+      "img": ""
     },
     "7": {
-      "name": {},
-      "img": {}
+      "name": "",
+      "img": ""
     },
     "8": {
-      "name": {},
-      "img": {}
+      "name": "",
+      "img": ""
     },
     "9": {
-      "name": {},
-      "img": {}
+      "name": "",
+      "img": ""
     },
     "10": {
-      "name": {},
-      "img": {}
+      "name": "",
+      "img": ""
     }
   },
-    "Recommended": {
+  "Recommended": {
     "1": {
-      "name": {},
-      "img": {}
+      "name": "",
+      "img": ""
     },
     "2": {
-      "name": {},
-      "img": {}
+      "name": "",
+      "img": ""
     },
     "3": {
-      "name": {},
-      "img": {}
+      "name": "",
+      "img": ""
     },
     "4": {
-      "name": {},
-      "img": {}
+      "name": "",
+      "img": ""
     },
     "5": {
-      "name": {},
-      "img": {}
+      "name": "",
+      "img": ""
     },
     "6": {
-      "name": {},
-      "img": {}
+      "name": "",
+      "img": ""
     },
     "7": {
-      "name": {},
-      "img": {}
+      "name": "",
+      "img": ""
     },
     "8": {
-      "name": {},
-      "img": {}
+      "name": "",
+      "img": ""
     },
     "9": {
-      "name": {},
-      "img": {}
+      "name": "",
+      "img": ""
     },
     "10": {
-      "name": {},
-      "img": {}
+      "name": "",
+      "img": ""
     }
   }
 }
