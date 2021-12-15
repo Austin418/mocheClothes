@@ -1,0 +1,130 @@
+{
+  "products": {
+    "featured": {
+      "1": {
+        "name": "Holiday Sweater",
+        "img": ""
+      },
+      "2": {
+        "name": "Twill Beanie",
+        "img": ""
+      },
+      "3": {
+        "name": "Holiday Sweatpants",
+        "img": ""
+      },
+      "4": {
+        "name": "Holiday Shirt" ,
+        "img": ""
+      },
+      "5": {
+        "name": "Mittens",
+        "img": ""
+      },
+      "6": {
+        "name": "Designer gift wrap",
+        "img": ""
+      },
+      "7": {
+        "name": "Holiday Handbag",
+        "img": ""
+      },
+      "8": {
+        "name": "Holiday Shoes",
+        "img": ""
+      },
+      "9": {
+        "name": "",
+        "img": ""
+      },
+      "10": {
+        "name": "",
+        "img": ""
+      }
+    }
+  },
+  "on-sale": {
+    "1": {
+      "name": "",
+      "img": ""
+    },
+    "2": {
+      "name": "",
+      "img": ""
+    },
+    "3": {
+      "name": "",
+      "img": ""
+    },
+    "4": {
+      "name": "",
+      "img": ""
+    },
+    "5": {
+      "name": "",
+      "img": ""
+    },
+    "6": {
+      "name": "",
+      "img": ""
+    },
+    "7": {
+      "name": "",
+      "img": ""
+    },
+    "8": {
+      "name": "",
+      "img": ""
+    },
+    "9": {
+      "name": "",
+      "img": ""
+    },
+    "10": {
+      "name": "",
+      "img": ""
+    }
+  },
+  "Recommended": {
+    "1": {
+      "name": "",
+      "img": ""
+    },
+    "2": {
+      "name": "",
+      "img": ""
+    },
+    "3": {
+      "name": "",
+      "img": ""
+    },
+    "4": {
+      "name": "",
+      "img": ""
+    },
+    "5": {
+      "name": "",
+      "img": ""
+    },
+    "6": {
+      "name": "",
+      "img": ""
+    },
+    "7": {
+      "name": "",
+      "img": ""
+    },
+    "8": {
+      "name": "",
+      "img": ""
+    },
+    "9": {
+      "name": "",
+      "img": ""
+    },
+    "10": {
+      "name": "",
+      "img": ""
+    }
+  }
+}
